@@ -4,7 +4,7 @@
 		"onWebviewPanel:lua-doc",
 		"onCommand:extension.lua.doc"
 	],
-	"author": "sumneko",
+	"author": "jack",
 	"capabilities": {
 		"untrustedWorkspaces": {
 			"description": "",
